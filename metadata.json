@@ -1,0 +1,6 @@
+{
+  "name": "NovaBeat — Music Visualizer Studio",
+  "description": "Audio visualizer studio, music player, multi-layer visual editor, cloud media library, and video creator inspired by Avee Player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
